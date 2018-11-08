@@ -1,0 +1,3 @@
+[submodule "splat-scene-dataset"]
+	path = splat-scene-dataset
+	url = https://github.com/kamiyaowl/splat-scene-dataset.git
